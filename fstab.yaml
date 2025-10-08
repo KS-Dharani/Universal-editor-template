@@ -1,5 +1,9 @@
 mountpoints:
   /:
+<<<<<<< HEAD
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+=======
+    url: "https://author-p49503-e262955.adobeaemcloud.com/bin/franklin.delivery/KS-Dharani/universal-editor-template/main"
+>>>>>>> cd55cb08380cc02464395c42496b75271fdacd45
     type: "markup"
     suffix: ".html"
