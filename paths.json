@@ -1,19 +1,12 @@
 {
   "mappings": [
-<<<<<<< HEAD
     "/content/aem-boilerplate/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json",
     "/content/aem-boilerplate/metadata:/metadata.json"
   ],
-  "includes": [
-    "/content/aem-boilerplate/"
-=======
-    "/content/dharani-universal-editor-template/:/",
-    "/content/dharani-universal-editor-template/configuration:/.helix/config.json",
-    "/content/dharani-universal-editor-template/metadata:/metadata.json"
-  ],
+
   "includes": [
     "/content/dharani-universal-editor-template/"
->>>>>>> cd55cb08380cc02464395c42496b75271fdacd45
+
   ]
 }
