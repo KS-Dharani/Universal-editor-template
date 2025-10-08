@@ -5,15 +5,10 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
   grid-gap: 24px;
-}
-
+1}
 .cards > ul > li {
-<<<<<<< HEAD
-  border: 4px solid green;
-=======
-  border: 1px solid #dadada;
->>>>>>> cd55cb08380cc02464395c42496b75271fdacd45
-  background-color: var(--background-color);
+  border: px solid green;
+  background-color: var(--background-color, #fff);
 }
 
 .cards .cards-card-body {
