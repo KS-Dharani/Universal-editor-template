@@ -5,9 +5,10 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
   grid-gap: 24px;
-1}
+}
+
 .cards > ul > li {
-  border: px solid green;
+  border: 1px solid green;
   background-color: var(--background-color, #fff);
 }
 
